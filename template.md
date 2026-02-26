@@ -1,5 +1,6 @@
 # Target: [Machine Name]
 **Platform:** [HackTheBox / TryHackMe / Other]
+[Machine Name on Platform](Link to the machine)
 
 | Target Name | IP Address | OS | Difficulty |
 | :--- | :--- | :--- | :--- |
