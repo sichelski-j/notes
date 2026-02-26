@@ -1,5 +1,6 @@
 # Target: Archetype
 **Platform:** HackTheBox
+[Archetype on HackTheBox](https://app.hackthebox.com/machines/Archetype)
 
 | Target Name | IP Address | OS | Difficulty |
 | :--- | :--- | :--- | :--- |
@@ -199,7 +200,7 @@ This revealed the user had previously mapped a network drive and accidentally sa
 After getting the username and password to the admin account, I opened new terminal, and decided to connect with the machine using evil-winrm tool.
 **Connecting with the Machine as Administrator:**
 ```bash
-evil-winrm -i 10.129.2.12 -u Administrator -p 'MEGACORP_4dm1n!!'
+evil-winrm -i 10.129.95.187 -u Administrator -p 'MEGACORP_4dm1n!!'
 ```
 
 After a while the connection was established, and I was in the 'C:\Users\Administrator\Documents' folder. I searched for the files there, but nothing appeared so I decided to go one step up and check the 'C:\Users\Administrator' folder.
