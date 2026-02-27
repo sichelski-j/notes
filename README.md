@@ -10,4 +10,5 @@ These documents are published for educational purposes and as a personal portfol
 * **Archetype** | [My Write-Up](Windows/HTB_Archetype.md) | [Official HTB Link](https://app.hackthebox.com/machines/Archetype)
 
 ## 🐧 Linux Machines
-* **CAP** | [My Write-Up](Linux/HTB_Cap.md) | [Official HTB Link](https://app.hackthebox.com/machines/Cap)
+* **Cap** | [My Write-Up](Linux/HTB_Cap.md) | [Official HTB Link](https://app.hackthebox.com/machines/Cap)
+* **Meow** | [My Write-Up](Linux/HTB_Meow.md) | [Official HTB Link](https://app.hackthebox.com/machines/Meow)
