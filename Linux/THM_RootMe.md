@@ -1,7 +1,7 @@
 # Target: RootMe
 
 **Platform:** TryHackMe
-[RootMe on TryHackMe](https://tryhackme.com/room/rootme)
+[RootMe on TryHackMe](https://tryhackme.com/room/rrootme)
 
 | Target Name | IP Address | OS | Difficulty |
 | --- | --- | --- | --- |
