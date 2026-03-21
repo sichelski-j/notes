@@ -16,3 +16,4 @@ These documents are published for educational purposes and as a personal portfol
 * **Pickle Rick** | [My Writre-Up](Linux/THM_Pickle_Rick.md) | [Official THM Link](https://tryhackme.com/room/picklerick)
 * **RootMe** | [My Write-Up](Linux/THM_RootMe.md) | [Official THM Link](https://tryhackme.com/room/rrootme)
 * **Vulnversity** | [My-Write-Up](Linux/THM_Vulnversity.md) | [Official THM Link](https://tryhackme.com/room/vulnversity)
+* **Startup** | [My-Write-Up](Linux/THM_Startup.md) | [Official THM Link](https://tryhackme.com/room/startup)

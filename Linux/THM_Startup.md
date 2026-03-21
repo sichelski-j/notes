@@ -1,4 +1,4 @@
-# Target: Spicy
+# Target: Startup
 
 **Platform:** TryHackMe
 [Startup on TryHackMe](https://tryhackme.com/room/startup)
