@@ -9,6 +9,7 @@ These documents are published for educational purposes and as a personal portfol
 ## 🖥️ Windows Machines
 * **Archetype** | [My Write-Up](Windows/HTB_Archetype.md) | [Official HTB Link](https://app.hackthebox.com/machines/Archetype)
 * **Ice** | [My Write-Up](Windows/THM_Ice.md) | [Official THM Link](https://tryhackme.com/room/ice)
+* **Blaster** | [My Write-UP](Windows/THM_Blaster.md) | [Official THM Link](https://tryhackme.com/room/blaster)
 
 ## 🐧 Linux Machines
 * **Cap** | [My Write-Up](Linux/HTB_Cap.md) | [Official HTB Link](https://app.hackthebox.com/machines/Cap)

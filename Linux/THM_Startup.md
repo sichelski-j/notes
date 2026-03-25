@@ -272,7 +272,7 @@ This ends the room.
 
 ## Conclusion & Takeaways
 
-**Summary:** Compromising the Startup machine involved connecting to the `FTP` server which was connected yo the website, and uploading a reverse shell script to the site. After maimtaining connection with `FTP` via `netcat`, enumeration showed an easy to download `Wireshark` file which contains a password for a standard user. Next, after connecting as the standard user via `SSH`, a misconfigureed cron script allowed me to inject malicious code which spawned a root shell.
+**Summary:** Compromising the Startup machine involved connecting to the `FTP` server which was connected to the website, and uploading a reverse shell script to the site. After maimtaining connection with `FTP` via `netcat`, enumeration showed an easy to download `Wireshark` file which contains a password for a standard user. Next, after connecting as the standard user via `SSH`, a misconfigureed cron script allowed me to inject malicious code which spawned a root shell.
 
 **What I Learned:** How an `FTP server` can be linked to a public-facing web directory. Understanding the Linux web directory structure (like `/var/www/html`). How to use `TCP Stream` feature in `Wireshark` to extract plain-text credentials. How to generate reverse shell scripts using [revshells.com](https://www.revshells.com/).
 
@@ -283,7 +283,7 @@ To secure this machine and prevent similar attacks, I recommend the following re
 2. **Secure Cron Jobs:** Root cron jobs must be configurated properly. Allowing a root-lever script to execute a secondary script that is owned by a low-level user is a critical security breach. It allows a standard user to inject malicious code that the system will run with root privileges. Administrators must audit automated tasks to ensure that any executed by `root` is strictly owned by and writable only by `root`.
 
 **What I could do bette/faster in the future:**
-After completing this machine I'd learned some skill that will improve my future study and work:
+After completing this machine, I'd learned some skill that will improve my future study and work:
 
 1. **Efficient Packet Analysis:** During the network analysis phase, I initially got stuck trying to anaylze individuals packets manually. In the future, I will immediately look for ways to reconstruct full conversation using features like Wireshark's `Follow TCP Stream` to save time and spot plaintext credentials much faster.
 
