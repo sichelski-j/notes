@@ -18,3 +18,4 @@ These documents are published for educational purposes and as a personal portfol
 * **RootMe** | [My Write-Up](Linux/THM_RootMe.md) | [Official THM Link](https://tryhackme.com/room/rrootme)
 * **Vulnversity** | [My-Write-Up](Linux/THM_Vulnversity.md) | [Official THM Link](https://tryhackme.com/room/vulnversity)
 * **Startup** | [My-Write-Up](Linux/THM_Startup.md) | [Official THM Link](https://tryhackme.com/room/startup)
+* **Agent Sudo** | [My-Write-Up](Linux/THM_Agent_Sudo.md) | [Official THM Link](https://tryhackme.com/room/agentsudoctf)
